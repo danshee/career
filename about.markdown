@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Yet another code monkey.
-
-Mobile software developer presently specializing in iOS, with previous experience in Android, Windows (mobile, desktop, kernel, device drivers), and embedded IoT devices.
+Thoughts on leadership, teaching, team building, self improvement, and motivation through a career lens in the software development industry.
