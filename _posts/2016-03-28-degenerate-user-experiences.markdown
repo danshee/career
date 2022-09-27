@@ -2,7 +2,7 @@
 layout: post
 title:  "Degenerate User Experiences."
 date:   2016-03-28 -0700
-categories: jekyll update
+categories:
 ---
 
 "Idiot proofing."

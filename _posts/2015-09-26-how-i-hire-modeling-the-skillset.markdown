@@ -2,7 +2,7 @@
 layout: post
 title:  "How I Hire: Modeling the Skillset."
 date:   2015-09-26 -0700
-categories: jekyll update
+categories:
 ---
 
 The best companies that I’ve ever worked for were understaffed.

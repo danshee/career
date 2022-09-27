@@ -2,7 +2,7 @@
 layout: post
 title:  "My First 90 Days: What My Uncle Said to Me."
 date:   2015-01-24 -0700
-categories: jekyll update
+categories:
 ---
 
 When I was a young man and still in university, my Uncle Manfred offered a critique of my character.
