@@ -7,9 +7,9 @@ categories:
 
 <br>
 
-> “Thank you for your patience.”
+> Thank you for your patience.
 
--- The Cashiers Book of Standard Curses
+&emsp;&emsp;-- The Cashiers Book of Standard Curses
 
 
 <br>
@@ -22,9 +22,13 @@ I am writing this to confess that I am not patient, nor have I ever been patient
 
 <br>
 
-> “There is however a limit, at which forbearance ceases to be a virtue.”
+----
 
--- Edmund Burke
+<br>
+
+> There is however a limit, at which forbearance ceases to be a virtue.
+
+&emsp;&emsp;-- Edmund Burke
 
 <br>
 
@@ -40,9 +44,9 @@ But, I continued to apply for software development positions.  I didn’t know w
 
 Eventually, a company I interviewed with did hire me as a software developer.
 
-> “Patience, n. A minor form of despair, disguised as a virtue.”
+> Patience, n. A minor form of despair, disguised as a virtue.
 
--- Ambrose Bierce, *The Devil's Dictionary*
+&emsp;&emsp;-- Ambrose Bierce, *The Devil's Dictionary*
 
 
 A few weeks after I was hired, “Bang” was added to the team (I’m de-identifying him as “Bang” because I don’t know anyone with that name).
@@ -73,7 +77,7 @@ And the honeymoon period with that company soon ended. It was a startup that had
 
 “There is no plan-B,” the CEO had told us.
 
-I didn’t want to be out of work again.
+***I didn’t want to be out of work again.***
 
 And I wanted to do right by the people I was working with -- 99% of them seemed to be good, professional and honest people.
 
@@ -94,9 +98,9 @@ He was unable (unwilling?) to master simple logistical problems that the rest of
 “How do I do a production build?”
 
 <br>
-> “Beware the fury of a patient man.”
+> Beware the fury of a patient man.
 
--- Publilius Syrus
+&emsp;&emsp;-- Publilius Syrus
 <br>
 
 Things got very intense as our release date approached. One **weekend** we were all at work, and Bang's device notified him that it was currently not authorized for network access. He immediately turned to me.
@@ -162,7 +166,7 @@ When I showed Bang how to do a production build, he learned “if I want to do a
 
 I’ve met other versions of Bang since -- I can now spot them quickly. And I've learned to avoid them. I don't volunteer to help them, and I don't go to their desk.
 
-Fourth, I learned to give up quickly on people. In Silicon Valley we have a saying, “fail fast.” What that means is identify a failing path and give up on it sooner rather than later. That way, critical resources (e.g. competent software developers) can be reallocated to potentially profitable projects instead of wasting time on projects destined to fail.
+***Fourth***, I learned to give up quickly on people. In Silicon Valley we have a saying, “fail fast.” What that means is identify a failing path and give up on it sooner rather than later. That way, critical resources (e.g. competent software developers) can be reallocated to potentially profitable projects instead of wasting time on projects destined to fail.
 
 I feel the same way about some human beings.
 
@@ -170,5 +174,5 @@ I feel the same way about some human beings.
 
 To those that have ever come to me for help, or those that I have taught, trained, or mentored; and who also would describe me as “patient” -- be aware that that was all on you.  You were pleasant and professional people to work with.  I enjoyed helping you and teaching you.
 
-To those that I have given up on: you know where you stand.
+To those that I have given up on: *you know where you stand*.
 
