@@ -5,6 +5,10 @@ date:   2015-09-26 -0700
 categories:
 ---
 
+![](/career/images/AT91FR4081.jpeg)
+
+<br>
+
 The best companies that I’ve ever worked for were understaffed.
 
 My reason for saying this is that those companies produced the best opportunities.
