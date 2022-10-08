@@ -5,6 +5,8 @@ date:   2021-01-12 -0700
 categories:
 ---
 
+![](/career/images/ThankYouForYourPatience.jpeg)
+
 <br>
 
 > Thank you for your patience.
