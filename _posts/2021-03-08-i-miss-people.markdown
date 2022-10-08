@@ -61,6 +61,8 @@ I'd never felt this way about a job before. As the kid who was always picked las
 
 ***Anecdote**: Creating new and interesting cheesecakes is a hobby of mine. I once brought one to a friend's birthday party, and it was so well received that people were urging me to quit my day job.*
 
+*Years ago while working for a small startup, I'd use my colleagues as guinea pigs. If I'd created an interesting cheesecake I wanted feedback on, I'd leave samples in the lunchroom.*
+
 ![](/career/images/AppleButterCheesecake.jpeg)
 
 *People knew it was me and would tell me what they thought.*
