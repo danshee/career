@@ -5,6 +5,10 @@ date:   2016-03-28 -0700
 categories:
 ---
 
+![](/career/images/ForestAndTrees.jpeg)
+
+<br>
+
 "Idiot proofing."
 
 That's what it was called back when I was in high school learning how to code. I never liked this term. I felt that it characterized the user (paying customer) as someone possessed by [malice and stupidity](https://en.wikipedia.org/wiki/Hanlon%27s_razor).
